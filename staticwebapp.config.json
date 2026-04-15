@@ -1,0 +1,6 @@
+{
+  "globalHeaders": {
+    "Content-Security-Policy": "frame-ancestors 'self' *.netsuite.com *.app.netsuite.com",
+    "X-Frame-Options": "ALLOWALL"
+  }
+}
