@@ -1,6 +1,6 @@
-{
-  "globalHeaders": {
-    "Content-Security-Policy": "frame-ancestors 'self' *.netsuite.com *.app.netsuite.com",
-    "X-Frame-Options": "ALLOWALL"
-  }
-}
+<iframe 
+  src="https://gentle-forest-0282bc600.7.azurestaticapps.net"
+  style="position:fixed;bottom:0;right:0;width:100px;height:100px;border:none;z-index:9999;background:transparent;"
+  scrolling="no"
+  allowtransparency="true">
+</iframe>
